@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMvMh3n25+A4+oADxfyZLrK54yR9iyGGA5aKE5FyD6kKSKk68osIijKRV9+0XSd/i9wpsw87adBUzZKI5hTK8g==",
+  "success": true,
+  "projectFilePath": "D:\\Kastier\\kast_js2022\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kasti\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kasti\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kasti\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\kasti\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\kasti\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\kasti\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
