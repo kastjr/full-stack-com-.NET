@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProEvents.API
-build_property.ProjectDir = d:\Kastier\kast_js2022\ProEvents\Back\src\ProEvents.API\
+build_property.ProjectDir = d:\Kastier\kast_js2022\full-stack-com-.NET\ProEvents\Back\src\ProEvents.API\

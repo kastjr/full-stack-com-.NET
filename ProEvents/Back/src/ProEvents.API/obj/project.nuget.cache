@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oMvMh3n25+A4+oADxfyZLrK54yR9iyGGA5aKE5FyD6kKSKk68osIijKRV9+0XSd/i9wpsw87adBUzZKI5hTK8g==",
+  "dgSpecHash": "8flMSNNb62DUqrsVj5NEJn/5jVPEDmlMQoYaMQnYtHWZ2dXcRfZaIsbcjAg3LIahUxK194OzSigVutR/Cdjx0g==",
   "success": true,
-  "projectFilePath": "D:\\Kastier\\kast_js2022\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj",
+  "projectFilePath": "D:\\Kastier\\kast_js2022\\full-stack-com-.NET\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kasti\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\kasti\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

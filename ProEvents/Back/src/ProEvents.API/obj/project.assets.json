@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kastier\\kast_js2022\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj",
+      "projectUniqueName": "D:\\Kastier\\kast_js2022\\full-stack-com-.NET\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj",
       "projectName": "ProEvents.API",
-      "projectPath": "D:\\Kastier\\kast_js2022\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj",
+      "projectPath": "D:\\Kastier\\kast_js2022\\full-stack-com-.NET\\ProEvents\\Back\\src\\ProEvents.API\\ProEvents.API.csproj",
       "packagesPath": "C:\\Users\\kasti\\.nuget\\packages\\",
-      "outputPath": "D:\\Kastier\\kast_js2022\\ProEvents\\Back\\src\\ProEvents.API\\obj\\",
+      "outputPath": "D:\\Kastier\\kast_js2022\\full-stack-com-.NET\\ProEvents\\Back\\src\\ProEvents.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kasti\\AppData\\Roaming\\NuGet\\NuGet.Config"
